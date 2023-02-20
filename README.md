@@ -22,8 +22,13 @@ A) MPEG audio Encoder Layer 2
             7) To achieve data compression, the encoder ignores subbands that are completely masked by other signal components.
             8) Additionally, subbands that are partially masked are encoded with less accuracy than the dominant subbands.
 
-A) MPEG audio Decoder Layer 2
+B) MPEG audio Decoder Layer 2
 
             1) Designing the decoder that restores the quantized spectral components of the signal.
             2) Reconstructing the time-domain representation of the audio signal from its frequency representation.
             
+C) Performance Measure
+
+            1) Compression ratio: it is defined as the ratio of the original signal to the compressed signal.
+            2) Mean Opinion Score (Subjective evaluation): The audience would listen to the sound files and see the sound quality and score it. It has to grades from 5 to 1. 
+            3) PEAQ (Perceptual Evaluation of Audio Quality) (Objective evaluation): measures the ODG (Objective Difference Grade) between the original and the reconstructed signal. In Objective testing five-level impairment for Perceptual Evaluation of Audio Quality (PEAQ).
