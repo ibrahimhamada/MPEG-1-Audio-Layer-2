@@ -7,8 +7,7 @@ In this project, I implemented the implement the MPEG audio Layer 2 (Encoder and
 
 
 ## MPEG-1-Audio Encoder-Decoder <a name="MPEG-1-Audio Encoder-Decoder"></a>
-![image](https://user-images.githubusercontent.com/58476343/220171381-94684d4e-9734-4272-b47e-c600a4a6a706.png)
-
+![image](https://user-images.githubusercontent.com/58476343/220171522-e007785d-f6a8-44cd-9686-2338bf77839a.png)
 
 ## Implementation Steps:
 
