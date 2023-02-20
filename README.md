@@ -25,5 +25,5 @@ A) MPEG audio Encoder Layer 2
 A) MPEG audio Decoder Layer 2
 
             1) Designing the decoder that restores the quantized spectral components of the signal.
-            2) reconstructing the time-domain representation of the audio signal from its frequency representation.
+            2) Reconstructing the time-domain representation of the audio signal from its frequency representation.
             
