@@ -3,7 +3,7 @@ The project aims to implement the MPEG audio Layer 2 without the bitstream forma
 
 My Project of the Digital Signal Processing Course Offered in Fall 2021 @ Zewail City.
 
-In this project, I implemented the implement the MPEG audio Layer 2 (Encoder and Decoder) without the bitstream formatting using MATLAB.
+In this project, I implemented the MPEG audio Layer 2 (Encoder and Decoder) without the bitstream formatting using MATLAB.
 
 
 ## MPEG-1-Audio Encoder-Decoder <a name="MPEG-1-Audio Encoder-Decoder"></a>
