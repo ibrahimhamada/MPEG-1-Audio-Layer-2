@@ -5,9 +5,10 @@ My Project of the Digital Signal Processing Course Offered in Fall 2021 @ Zewail
 
 In this project, I implemented the implement the MPEG audio Layer 2 (Encoder and Decoder) without the bitstream formatting using MATLAB.
 
-Finally, the last block The Allocation and coding block uses the data provided by the model to determine
-how to encode the sub-band signals. To achieve data compression, the encoder ignores subbands that
-are completely masked by other signal components.  
+
+## MPEG-1-Audio Encoder-Decoder <a name="MPEG-1-Audio Encoder-Decoder"></a>
+![image](https://user-images.githubusercontent.com/58476343/220171381-94684d4e-9734-4272-b47e-c600a4a6a706.png)
+
 
 ## Implementation Steps:
 
