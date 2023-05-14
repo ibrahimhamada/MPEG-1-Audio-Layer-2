@@ -1,4 +1,4 @@
-# Implementation-of-MPEG-1-Audio-Layer-2
+# MPEG-1-Audio-Layer-2
 The project aims to implement the MPEG audio Layer 2 without the bitstream formatting using MATLAB.
 
 My Project of the Digital Signal Processing Course Offered in Fall 2021 @ Zewail City.
